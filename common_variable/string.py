@@ -7,3 +7,5 @@ print(str1)
 print(str2)
 print(str3)
 print(str4)
+
+## str1[0] = 'H' 报错，字符串不能修改
